@@ -1,6 +1,0 @@
-CMakelist.txt
-arcade
-*.o
-cmake-build-debug
-.idea
-scores*
